@@ -44,7 +44,7 @@
 ### 💡 What I'm Working On
 
 - 📌 Exploring **OOP in Java** (classes, inheritance, interfaces, etc.)
-- 🚧 Building projects using **DOM, JavaScript**, and soon **JavaFX**
+- 🚧 Building projects using **DOM, JavaScript, Python**
 - 🎯 Consistent DSA practice for coding competitions
 - 📚 Writing better documentation and clean code
 
